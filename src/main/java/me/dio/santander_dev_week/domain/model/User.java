@@ -1,4 +1,4 @@
-package me.dio.santander_dev_week.model;
+package me.dio.santander_dev_week.domain.model;
 
 import jakarta.persistence.*;
 
